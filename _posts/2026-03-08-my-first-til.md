@@ -7,4 +7,4 @@ tags: [jekyll, github-pages]
 
 ## 오늘 배운 내용
 - Windows 11에서 Ruby 환경을 설정했다.
-- GitHub Pages와 Jekyll을 연동했다.
+- GitHub Pages와 Jekyll을 연동했다.111
