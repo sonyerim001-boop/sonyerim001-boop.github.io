@@ -26,5 +26,28 @@
   // Run tasks in macOS
   "terminal.integrated.profiles.osx": {
     "zsh": { "path": "/bin/zsh", "args": ["-l", "-i"] }
+  },
+  // Paste Image Extension Settings (mushan)
+  "pasteImage.path": "${workspaceRoot}/assets/img/posts",
+  "pasteImage.basePath": "${workspaceRoot}",
+  "pasteImage.forceUnixStyleSeparator": true,
+  "pasteImage.prefix": "/",
+  // Markdown Paste Extension Settings (telesoho)
+  "MarkdownPaste.path": "${workspaceRoot}/assets/img/posts",
+  "MarkdownPaste.rules": [
+    {
+      "regex": "\\\\",
+      "options": "g",
+      "replace": "/"
+    },
+    {
+      "regex": "\\]\\((?:\\.\\./)*assets/img/posts/",
+      "options": "g",
+      "replace": "](/assets/img/posts/"
+    }
+  ],
+  // Built-in VS Code Markdown Paste Settings
+  "markdown.copyFiles.destination": {
+    "**/*": "${documentWorkspaceFolder}/assets/img/posts/"
   }
 }
