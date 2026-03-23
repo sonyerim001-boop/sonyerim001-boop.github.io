@@ -7,7 +7,7 @@ toc: true
 math: true
 mermaid: true
 image:
-  path: /assets/img/posts/preview.png
+  path: https://placehold.co/600x400.png
   alt: 프로젝트 미리보기
 description: "프로젝트 한 줄 요약."
 ---
@@ -48,7 +48,7 @@ payload = "' OR '1'='1"
 ```
 {: file="exploit.py" }
 
-![](/assets/img/posts/screenshot.png){: w="700" h="400" .shadow }
+![](https://placehold.co/700x400.png){: w="700" h="400" .shadow }
 _실습 화면 캡처_
 
 ---
