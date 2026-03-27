@@ -137,18 +137,3 @@ image:
   allowfullscreen
 ></iframe>
 
-{%
-  include embed/video.html
-  src='/assets/video/sample.mp4'
-  title='데모 영상'
-  autoplay=true
-  loop=true
-  muted=true
-%}
-
-{%
-  include embed/audio.html
-  src='/assets/audio/sample_mp3.mp3'
-  title='데모 오디오'
-%}
-
