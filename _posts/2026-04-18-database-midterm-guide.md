@@ -1,6 +1,6 @@
 ---
 title: "MySQL SQL 실습 20문제 수행 정리 (데이터베이스 포트폴리오)"
-date: 2026-04-19 19:00:00 +0900
+date: 2026-04-18 19:00:00 +0900
 description: "SQL 실습 문제 20개를 수행하며 주요 개념을 정리한 포트폴리오"
 categories: [Database, Portfolio]
 tags: [SQL, MySQL, 데이터베이스, 실습, 포트폴리오]
@@ -123,4 +123,4 @@ SQL 문법을 암기하는 것보다 실제 데이터를 다루며 실행 흐름
 
 ---
 
-👉 [SQL 실습 파일](/assets/files/SQL실습250520.docx)
+👉 [SQL 실습 파일](/assets/files/SQL실습250520.docx)ㄴ
