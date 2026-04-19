@@ -65,4 +65,4 @@ FROM → WHERE → GROUP BY → HAVING → SELECT → ORDER BY
 
 SQL은 단순 암기가 아니라 실행 흐름 이해가 중요하다.  
 
-👉 실습 정리 글: ([text](<../../../Users/rkcjs/OneDrive/문서/주관식 문제 250520.docx>))
+👉 [주관식 정리 파일](/assets/files/subjective-db-250520.docx)
