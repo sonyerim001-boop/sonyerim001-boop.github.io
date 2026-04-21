@@ -5,7 +5,7 @@ date: 2026-04-21 21:00:00 +0900
 categories: [Linux, Portfolio]
 tags: [Linux, Ubuntu, Shell, Bash, 실습, 포트폴리오]
 toc: true
----------
+---
 
 # Ubuntu Linux 실습 20문제 수행 정리 (리눅스 포트폴리오)
 
