@@ -123,4 +123,4 @@ SQL 문법을 암기하는 것보다 실제 데이터를 다루며 실행 흐름
 
 ---
 
-👉 [SQL 실습 파일](/assets/files/SQL실습250520.docx)ㄴ
+👉 [SQL 실습 파일](/assets/files/SQL실습250520.docx)
